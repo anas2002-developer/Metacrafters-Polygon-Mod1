@@ -49,7 +49,7 @@ This project demonstrates the process of deploying an NFT collection on the Ethe
 5. Verify the NFT balances on Polygon Mumbai to ensure successful transfer.
 
 ## Conclusion
-This project successfully deployed an NFT collection on Ethereum, mapped it to the Polygon network, and transferred the NFTs to Polygon Mumbai using the FxPortal Bridge. By leveraging Polygon's Layer 2 scaling solution, the project aims to enhance the NFTs' accessibility and reduce transaction costs for users. The inclusion of unique NFT images generated through DALLE 2 or Midjourney adds an artistic touch to the collection, making it more appealing to potential buyers and collectors.
+This project successfully deployed an NFT collection on Ethereum, mapped it to the Polygon network, and transferred the NFTs to Polygon Mumbai using the FxPortal Bridge. By leveraging Polygon's Layer 2 scaling solution, the project aims to enhance the NFTs' accessibility and reduce transaction costs for users. The inclusion of unique NFT images generated through Lexica adds an artistic touch to the collection, making it more appealing to potential buyers and collectors.
 
 ## License
 [MIT](LICENSE)
