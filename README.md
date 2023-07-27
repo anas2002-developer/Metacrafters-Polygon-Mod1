@@ -5,7 +5,7 @@ This project demonstrates the process of deploying an NFT collection on the Ethe
 
 ## Project Highlights
 - Deployed an NFT collection named "AnasNFT" on the Ethereum blockchain.
-- Utilized an image generation tool (DALLE 2 or Midjourney) to create 5 unique and visually appealing NFT images.
+- Utilized an image generation tool (Lexica) to create 5 unique and visually appealing NFT images.
 - Stored the generated images on IPFS using pinata.cloud for efficient access.
 - Developed an ERC721 smart contract, "AnasContract," with a `promptDescription` function that returns the prompt used for generating the images.
 - Successfully mapped the NFT collection to the Polygon network for seamless transfer and access on Polygon.
